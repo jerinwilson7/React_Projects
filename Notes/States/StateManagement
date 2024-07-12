@@ -1,0 +1,19 @@
+state management : Deciding whe to create piece of state, what types of  state are necessary, where to place each piece of state, and how data flows through the app 
+
+Local State: state needed only by one or few components
+
+state that is defined in a component and only that component and child components have access to it (by passinf via props)
+
+Global State: state needed by many components across the app
+
+
+shared state that is accessible to every component in the entire application
+
+
+context API    Redux
+
+
+
+
+when and where
+
